@@ -1,4 +1,4 @@
 # firstRepo-demo
-This is my first Git Repository
-<be>
+This is my first Git Repository.
+<br>
 Author- Vaibhav Akhade
